@@ -1,5 +1,4 @@
-🛋️ Lazy potato, but make it AI-powered! 🤖 I build smart stuff so I can work less and let the machines do the heavy lifting. Industry 4.0, robotics, and data science keep me busy (when I’m not napping). 
-Let’s automate life! 🚀
+A Lazy potato, but make it AI-powered! I build smart stuff so I can work less and let the machines do the heavy lifting. Industry 4.0, robotics, and data science keep me busy (when I’m not napping).
 
 
 # 💻 Tech Stack:
@@ -12,13 +11,3 @@ Let’s automate life! 🚀
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Taechai&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Taechai&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=Taechai&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
