@@ -67,20 +67,6 @@ if a task can be automated, i’ll make it happen. if it can’t… i’ll try a
 
 ---
 
-## 📊 the numbers (because graphs make me look smarter)  
-
-![stats](https://github-readme-stats.vercel.app/api?username=Taechai&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
-![streak](https://nirzak-streak-stats.vercel.app/?user=Taechai&theme=dark&hide_border=false)  
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taechai&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)  
-
----
-
-## 🏅 trophies (for doing things i was gonna do anyway)
-![trophies](https://github-profile-trophy.vercel.app/?username=Taechai&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
----
-
 ## 📬 how to reach me
-- linkedin: [chaimae-belmarouf](https://www.linkedin.com/in/chaimae-belmarouf)  
 - carrier pigeon: pending training  
 - github issues: instant, no postage required  
